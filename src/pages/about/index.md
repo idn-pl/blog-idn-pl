@@ -1,19 +1,20 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: Tentang Kami
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+*Indonesian Diaspora Network* (IDN) *Chapter* Nasional Polandia adalah Lembaga afiliasi dari [*Indonesian Diaspora Network Global* (IDN-G)](http://www.diasporaindonesia.org/) yang berorientasi *Non-Profit* dan berpusat di Jakarta. Kelembagaan afliasi ini bersifat koordinatif antara Chapter Nasional dengan Induk afiliasinya. Oleh karena itu, Chapter Afilliasi memiliki banyak keleluasaan dalam mengatur kebijakan dan Rumah Tangganya masing-masing. 
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+![jajaran pengurus idn-pl](/img/pengurus.png "Jajaran pengurus IDN-PL 2021-2023")
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Latar Belakang
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Afiliasi ini sudah berlangsung secara *de facto* sejak 2013. Namun, ia mengalami pasang surut dalam internal kelembagaan di *Chapter* Nasional. Akan tetapi, peran dan kontribusi Masyarakat Indonesia Luar Negeri (MILN) di Polandia di tingkat global, khususnya pada aspek Advokasi Kewarganegaraan dan Keimigrasian, tetap sinambung dengan kelembagaan IDN-Global melalui Kelompokj Kerja yang dikenal sebagai *Working Group* Imigrasi dan Kewarganegaraan (WGIK). Sehingga kevakuman relawan dan rendahnya animo anggotanya dalam estafet kepemimpinan lembaga (2018 -2021), belum cukup untuk dijadikan alasan bagi ketiadaan afiliasi antar lembaga - lembaga terkait. Oleh karenanya, adalah natural bagi IDN-PL untuk berafiliasi ke IDN-Global secara jangka panjang.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+![zoom meeting pembukaan idn-pl oleh idn global](/img/pembukaan-idn-pl-dari-global.jpg "Pembukaan IDN Chapter Polandia oleh IDN Global")
+
+[Pembukaan IDN Chapter Polandia](http://www.diasporaindonesia.org/news/pembukaan-idn-chapter-polandia) oleh IDN Global
+
+### Jejaring IDN-PL
+
+Jejaring atau *networking* merupakan nilai utama yang dijunjung tinggi dalam kelembagaan IDN-G dan *Chapter* Nasional. Di IDN-PL, prinsip jejaring yang utama adalah kesamaan Visi, nilai dan etika, seperti adanya keterbukaan dan pendekatan yang adaptif. IDN-PL memfasilitasi jejaring ini baik dalam tataran individual maupun lembaga. Baik di tingkat Lokal, Regional, maupun Global/Internasional, tidak hanya antar MILN atau diaspora Indonesia, namun juga dengan pihak-pihak berkepentingan lainnya.
