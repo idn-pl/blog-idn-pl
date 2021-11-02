@@ -1,34 +1,31 @@
 ---
-templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
+templateKey: blog-post
+title: "Siapa Diaspora Indonesia? "
+date: 2021-11-02T15:20:26.995Z
+description: "Memahami  konteks-konteks dalam penggunaan istilah diaspora
+  Indonesia (diasindo) dalam Advokasi Kediasporaan Indonesia. "
 featuredpost: true
-description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+featuredimage: /img/foto-4-.001.jpeg
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - hpekerja migran Indonesia
+  - migrasi
+  - diaspora Indonesia
+  - hidup di luar negeri
 ---
-
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
-
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
-
-## A little history
-
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
-
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
-
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
-
-## What you need to know before trying
-
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
-
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
-
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+Tulisan ini bertujuan untuk memberikan sedikit gambaran mengenai batasan penggunaan istilah diaspora Indonesia dalam berbagai konteks. \
+\
+Sejak advokasi Kediasporaan Indonesia dilembagakan oleh Indonesian Diaspora Network pada 2012 silam, satu kemajuan yang berarti dalam kategori siapa diaspora Indonesia, telah diinisiasi oleh IDN-Global dengan memasukkan kategori diaspora etnis Indonesia ke dalam jaringan advokasinya. Akan tetapi, pada tataran kebijakan, diaspora etnis masih terbentur dengan batasan siapa diasindo dalam definisi formal pemerintah Indonesia. \
+\
+Pada Sosialisasi KMILN (2016) silam, dinyatakan bahwa Diasindo adalah: diaspora dan Masyarakat Indonesia di Luar Negeri (MILN). Lantas, siapa keduanya ini? Perpres 76/2017 menyatakan bahwa MILN adalah Warga Negara Indonesia dan Eks-WNI serta anak keturunannya. Sementara itu, kategori no. 1 yaitu 'diaspora', belum terdefinisikan secara formal di dalam peraturan positif manapun di Indonesia. \
+\
+Dan karenanya, demi mendapatkan gambaran formal siapa sebenarnya kategori 'diaspora' ini, maka definisi dan bahkan 'tipologi'nya, harus dikembalikan ke klasifikasi pengertian klasiknya, berilham dari asal-usul kata diaspora yang mengacu kepada proses terpencar dan tercerai-berainya suatu kelompok masyarakat karena faktor-faktor yang kurang menguntungkan seperti perang, pandemi, bencana alam, atau kesulitan ekonomi, yang menyebabkan terjadinya migrasi ke berbagai arah. \
+\
+Dalam konteks Indonesia, dan sesuai dengan hasil penelitian terkait dengan hal-hal yang menyebabkan perpindahan ke luar Indonesia ( konflik, faktor kesulitan politik dan ekonomi) , maka definisi klasik diaspora seperti digambarkan di paragraf sebelumnya, memenuhi kriteria siapa 'diaspora' yang dimaksud dalam kategori diaspora Indonesia di atas. Dalam kasus Indonesia, setiap diasporanya akan memiliki dua kategori pada saat yang sama, yaitu paduan antara diaspora etnis dan diaspora ekonomi, atau diaspora politik dan diaspora etnis. Dan karenanya, kategori diaspora etnis akan menjadi pembeda yang unik dalam konteks kediasporaan Indonesia. \
+\
+**Pada dasarnya, setiap diasindo, adalah diaspora etnis Indonesia.** \
+\
+Akan tetapi, kategori-kategori tsb. tidak didefinisikan secara terbuka dan bahkan formal dalam konteks kediasporaan Indonesia. Sehingga, proses perancangan kebijakan kediasporaan seperti dicontohkan dalam rancangan KMILN, sulit untuk bisa fungsional karena karakter dari fasilitas atau Kartu yang dimaksudkan, terbatas ( tidak inklusif). Dalam rancangan KMILN, hanya WNI dan Eks-WNI serta keturunannya bisa mendapatkan fasilitas Kartu tsb. Itupun dengan *'turn over'* penolakan aplikasi yang sangat tinggi dan hanya ditujukan untuk fasilitas investasi. \
+\
+Sementara itu, banyak program serupa berjalan di berbagai negara justru karena adanya inklusi kebijakan dan subyek, yang membuat Kartu tsb. bersifat menegaskan asal-usul seseorang *(Diaspora Origin Card).* Atau dalam konteks yang restriktif seperti dalam program investasi 'bond' bagi diaspora, Yahudi dan India mampu menunjukkan keberhasilannya dalam program investasi diaspora tsb. Keduanya, memiliki ikatan terhadapa asal-usul (etnis) yang tegas dalam program kediasporaanya. Kendati dalam konteks Yahudi, asal-usul ini bersifat sangat terbatas, di mana seorang Yahudi akan didefinisikan dan dibatasi oleh garis keturunan Ibu yang harus seratus persen seorang Yahudi. Jadi, apabila Ibu dari seorang Yahudi tidak berasal secara genetik seratus persen dari bangsa Yahudi, maka anak dari si Ibu tsb. tidak dapat dikategorikan sebagai seorang Yahudi. Dengan pembatasan seketat ini, program investasi 'bond' kediasporaan di Israel berhasil. \
+\
+Sehingga bisa disimpulkan, bahwa seharusnya definisi dan atau kategori siapa diasindo, bisa lebih luas dari definisi yang ada sekarang, atau setidaknya definisi 'diaspora' pada kategori no. 1 di atas bisa dijabarkan kategorinya lebih jauh, untuk bisa diakomodasi dalam kebijakan kediasporaan dan keimigrasian. Mungkin dengan pendekatan ini, program KMILN bisa jauh lebih konkrit dari yang sudah diusahakan sejak 2014.
