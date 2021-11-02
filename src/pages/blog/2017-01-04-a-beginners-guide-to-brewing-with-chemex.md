@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: "Advokasi Kediasporaan IDN-PL "
-date: 2017-01-04T15:04:10.000Z
+date: 2021-11-02T17:37:12.319Z
 description: Advokasi Kartu Diaspora Indonesia atau Kartu Masyarakat Indonesia
   di Luar Negeri (KMILN)
 featuredpost: false
