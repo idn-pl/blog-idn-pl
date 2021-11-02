@@ -6,7 +6,7 @@ description: "Artikel ini bertujuan untuk memberikan gambaran tentang dinamika
   migrasi di Polandia dan aplikasi ijin tinggal dari pendekatan  strategi
   legalitas Ijin Tinggal. "
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
+featuredimage: /img/foto-1-.001.jpeg
 tags:
   - Pindah ke Polandia
   - Kerja di Polandia
