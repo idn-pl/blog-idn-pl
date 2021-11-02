@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Dinamika Aplikasi Ijin Tinggal di Polandia dari Waktu ke Waktu
-date: 2016-12-17T15:04:10.000Z
+date: 2021-11-02T19:55:53.594Z
 description: "Artikel ini bertujuan untuk memberikan gambaran tentang dinamika
   migrasi di Polandia dan aplikasi ijin tinggal dari pendekatan  strategi
   legalitas Ijin Tinggal. "
